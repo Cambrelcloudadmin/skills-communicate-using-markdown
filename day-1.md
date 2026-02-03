@@ -1,8 +1,21 @@
 # Daily Learning
 ## Morning Planning
-
+- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog post into an actual webpage.
 ## Review
 ### third
 #### 4th
 ##### 5t
 ###### 6th
+- Item 1
+- Item 2
+- Item 3
+* Item 4
++ Item 5
+
+1. Step 1
+1. Step 2
+1. Step 3
+2. Step 4
+4. Step 5 
